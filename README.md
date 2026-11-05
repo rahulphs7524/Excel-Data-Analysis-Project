@@ -1,10 +1,10 @@
-# 📊 Excel Data Analysis Project
+# Excel Data Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This is an End-to-End Sales Data Analytics Project developed using Microsoft Excel. The project focuses on data cleaning, data analysis, business insights, and interactive dashboard creation.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze raw sales data.
 - Clean and organize datasets.
@@ -13,7 +13,7 @@ This is an End-to-End Sales Data Analytics Project developed using Microsoft Exc
 - Create meaningful business insights.
 - Practice Excel lookup and analytical formulas.
 
-## 📁 Project Structure
+##  Project Structure
 
 This Excel workbook contains the following 8 sheets:
 
@@ -26,7 +26,7 @@ This Excel workbook contains the following 8 sheets:
 7. **Formula Practice** – Excel formula exercises and solutions.
 8. **Lookup Tables** – Reference tables for lookup operations.
 
-## 🛠️ Tools & Skills Used
+## Tools & Skills Used
 
 - Microsoft Excel
 - Data Cleaning
@@ -37,7 +37,7 @@ This Excel workbook contains the following 8 sheets:
 - Dashboard Creation
 - Business Intelligence
 
-## 📈 Key Highlights
+##  Key Highlights
 
 - End-to-End Sales Data Analysis
 - Raw Data Cleaning and Transformation
@@ -46,14 +46,14 @@ This Excel workbook contains the following 8 sheets:
 - Interactive Sales Dashboard
 - Practical Excel Formula Implementation
 
-## 📂 Project File
+##  Project File
 
 **Excel_End_to_End_Sales_Analytics_Project_with_Answers.xlsx**
 
-## 👨‍💻 Author
+##  Author
 
-Your Name
+RAHUL
 
-## ⭐ Conclusion
+##  Conclusion
 
 This project demonstrates practical Excel skills and the ability to transform raw sales data into meaningful business insights through data analysis and visualization.
